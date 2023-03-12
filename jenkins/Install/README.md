@@ -49,4 +49,5 @@ sudo systemctl restart jenkins  # to restart
 sudo systemctl stop jenkins     # to stop 
 sudo systemctl start jenkins    # to start 
 sudo systemctl status jenkins   # to check the status
+sudo systemctl enable jenkins    # to enable jenkins
 ```
